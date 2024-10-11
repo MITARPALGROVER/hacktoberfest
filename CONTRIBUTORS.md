@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mitapral Grover](https://github.com/MITARPALGROVER)
+- Place: India
+- Bio: Python Developer
+- Github: [Mitapral Grover](https://github.com/MITARPALGROVER)
